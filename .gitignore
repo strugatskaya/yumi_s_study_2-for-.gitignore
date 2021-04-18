@@ -1,0 +1,9 @@
+# ignore directory 
+tmp/
+# ignore subdirectory
+bootstrap-4.1.3-dist.zip/
+# ignore two file endings
+*._old
+*._backup
+# ignore 2 files in img directory
+img/.DS_Store

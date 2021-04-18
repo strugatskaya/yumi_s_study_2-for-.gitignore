@@ -7,3 +7,5 @@ bootstrap-4.1.3-dist.zip/
 *._backup
 # ignore 2 files in img directory
 img/.DS_Store
+# ignore 1 file ds store
+.DS_Store
